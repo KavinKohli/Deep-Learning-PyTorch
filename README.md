@@ -61,9 +61,23 @@ Trained a multiclass classifier using Softmax and CrossEntropyLoss and evaluated
 ## Day 9 — Putting It All Together
 Improved models using non-linearities and summarized the full classification pipeline.
 
-## ✅ Status
-Fundamentals and Classification (Chapter 02) completed. Next: Computer Vision (CNNs).
+## Day 10 — Computer Vision Introduction
+Understood what computer vision is, how images are represented as tensors, and how PyTorch handles image data.
 
+## Day 11 — Baseline Computer Vision Model
+Built a baseline image classification model and learned the full training + evaluation flow on image data.
+
+## Day 12 — Improving the Vision Model
+Improved the baseline model by adjusting architecture, epochs, and training strategy.
+
+## Day 13 — Convolutional Neural Networks (CNNs)
+Learned how CNNs work, implemented convolutional layers, and understood feature extraction.
+
+## Day 14 — CNN Training & Evaluation
+Trained a CNN model, evaluated performance, and visualized predictions on image data.
+
+## Day 15 — Computer Vision Summary
+Reviewed the full computer vision pipeline and summarized learnings from Chapter 3.
 
 ---
 
